@@ -1,2 +1,2 @@
 # se-midterm-lab
-# joji - die for you
+# joji - die for you ~~
